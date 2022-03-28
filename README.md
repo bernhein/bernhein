@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bernhein
 - 👀 I’m interested in Machine Learning, AI and Predictive Maintenance
-- 🌱 I’m currently learning Tensorflow
+- 🌱 I’m currently learning Tensorflow and pyTorch
 
 
 <!---
